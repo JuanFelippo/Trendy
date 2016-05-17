@@ -1,4 +1,4 @@
-package com.example.juan.myapplication;
+package com.example.juan.Trendy;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.juan.myapplication;
+package com.example.juan.Trendy;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
